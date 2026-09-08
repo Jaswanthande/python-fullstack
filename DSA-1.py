@@ -84,6 +84,11 @@ print(users)
 
 '''
 
+#enumerate it provides a by default a counter object (you can store desire collections)
 email_id =['jaswanthande98@gmail.com','yaswanthpilla55@gmail.com','jahnavidungala23@gmail.com','charansai2003@gmail.com']
 data = tuple(enumerate(email_id,1))
 print(data)
+
+#python: object
+#Function: first class object
+#set is an unordered function as no indexing
